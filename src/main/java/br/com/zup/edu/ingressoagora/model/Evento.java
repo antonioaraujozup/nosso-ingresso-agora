@@ -36,4 +36,8 @@ public class Evento {
     public Long getId() {
         return id;
     }
+
+    public LocalDate getData() {
+        return data;
+    }
 }
